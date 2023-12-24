@@ -1,4 +1,4 @@
-The Game Boy Color featured default palettes for certain original Game Boy games, along with an additional 12 palettes accessible through button combinations during game launch. As a bonus, a few unused palettes were also included!
+The Game Boy Color featured default palettes for certain original Game Boy games, along with an additional 12 palettes accessible through button combinations during game launch. Nintendo even designed a handful of palettes that went unused.
 
 This straightforward script extracts palettes from https://tcrf.net/Notes:Game_Boy_Color_Bootstrap_ROM and transforms them into .pal format compatible with the Analogue Pocket.
 
